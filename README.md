@@ -28,7 +28,7 @@
 
 ## Стек
 
-Python, Pandas, Numpy, Matplotlib, Scikit-learn, CatBoost, XGBoost, LightGBM
+Python, Pandas, NumPy, Matplotlib, Scikit-learn, CatBoost, XGBoost, LightGBM
 
 ## Автор
 
