@@ -34,8 +34,8 @@ cd Classic-ML-credit-scoring-
 pip install -r requirements.txt
 ```
 
-Скачайте `cs-training.csv` с Kaggle (ссылка выше) и поместите в папку `data/`.
-В ноутбуке замените путь `/kaggle/input/first-project/cs-training.csv` на `data/cs-training.csv`.
+Скачайте `cs-training.csv` с Kaggle (ссылка выше) и поместите в корень проекта.
+В первой ячейке ноутбука замените путь `/kaggle/input/first-project/cs-training.csv` на `cs-training.csv`.
 Затем запустите:
 
 ```bash
