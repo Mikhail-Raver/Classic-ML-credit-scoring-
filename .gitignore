@@ -1,0 +1,16 @@
+# CatBoost logs
+catboost_info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+*.csv
+*.pkl
+
+# System
+.DS_Store
