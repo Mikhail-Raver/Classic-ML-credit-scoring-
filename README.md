@@ -28,15 +28,19 @@
 
 ## Как запустить
 
+```bash
 git clone https://github.com/Mikhail-Raver/Classic-ML-credit-scoring-.git
 cd Classic-ML-credit-scoring-
 pip install -r requirements.txt
+```
 
 Скачайте `cs-training.csv` с Kaggle (ссылка выше) и поместите в папку `data/`.
 В ноутбуке замените путь `/kaggle/input/first-project/cs-training.csv` на `data/cs-training.csv`.
 Затем запустите:
 
+```bash
 jupyter notebook Project.ipynb
+```
 
 ## Стек
 
